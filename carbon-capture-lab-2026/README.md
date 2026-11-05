@@ -1,5 +1,7 @@
 # Illustrated two-page student guide
 
+Prepared by **Caleb Kouvarakis** · UTC Chemical Engineering
+
 **[Open both illustrated parts (PDF)](./UTC_Carbon_Capture_Illustrated_Student_Guide_2_Pages.pdf)**
 
 The PDF contains the original illustrated **Part 1: Setup & CO₂ Capture**, followed by the updated **Part 2: Precipitation & Filtration** with the **Büchner vacuum flask connected directly to the pump—no trap**.
