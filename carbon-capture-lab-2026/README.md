@@ -1,3 +1,13 @@
+# Illustrated two-page student guide
+
+**[Open the combined illustrated PDF (Page 1 + trap-free Page 2)](https://drive.google.com/file/d/1h2PIe_b9FNtAXLBFymtOY3BaddopEye2/view?usp=drivesdk)**
+
+The PDF contains the original illustrated **Part 1: Setup & CO₂ Capture**, followed by the updated **Part 2: Precipitation & Filtration** with the **Büchner vacuum flask connected directly to the pump—no trap**.
+
+**Access note:** The Google Drive PDF may require permission to open. If it does, use the full student procedure below, which is public on GitHub. The printed QR code remains valid and opens this page.
+
+---
+
 # Carbon Capture Challenge
 **UTC Chemical Engineering — November 6, 2026 — Student guide**
 
